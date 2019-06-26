@@ -1,0 +1,19 @@
+{
+    "name": "zhizhong/kafka",
+    "description": "help to use kafka in laravel",
+    "authors": [
+        {
+            "name": "leon",
+            "email": "303603174@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "files": [
+            "src/helper.php"
+        ],
+        "psr-4": {
+            "Zhizhong\\Kafka\\": "src/"
+        }
+    }
+}
