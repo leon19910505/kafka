@@ -1,7 +1,7 @@
 ## Install
 
 ```
-composer require zhizhong/kafka
+composer require zhizhong/kafka:dev-master
 ```
 
 ## Config
